@@ -532,10 +532,10 @@
     },
     {
       "identifier": "5",
-      "name": "animated",
+      "name": "Coole geanimeerde stickers",
       "publisher": "Chaos",
       "tray_image_file": "trayicon.png",
-      "image_data_version":"1",
+      "image_data_version":"3",
       "avoid_cache":true,
       "publisher_email":"",
       "publisher_website": "",
@@ -544,16 +544,28 @@
       "animated_sticker_pack" : true,
       "stickers": [
         {
-          "image_file" : "chaoslogo_test.webp",
+          "image_file" : "chaos-animatie.webp",
           "emojis" : ["🔥"]
         },
         {
-          "image_file" : "chaoslogo_test2.webp",
+          "image_file" : "chaos-animatie2.webp",
           "emojis" : ["🔥"]
         },
         {
-          "image_file" : "chaoslogo_test3.webp",
-          "emojis" : ["🔥"]
+          "image_file": "doen_durven_dsb.webp",
+          "emojis": [
+            "🍺",
+            "🍻",
+            "👔"
+          ]
+        },
+        {
+          "image_file": "doen_durven_dsb2.webp",
+          "emojis": [
+            "🍺",
+            "🍻",
+            "👔"
+          ]
         }
       ]
     }
