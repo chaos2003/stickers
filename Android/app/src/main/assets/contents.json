@@ -3,8 +3,8 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "1",
-      "name": "gezichten #1",
+      "identifier": "Gezichten A-F",
+      "name": "Gezichten A-F",
       "publisher": "Chaos",
       "tray_image_file": "trayicon.png",
       "image_data_version":"10",
@@ -14,524 +14,278 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
-        {
-          "image_file" : "alex-933152c0-8951-465d-acf6-0646ed025570.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "alex-b0f09072-91d2-4606-a3cd-e073d0483d0c.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "carlo-12edc183-14eb-4ded-9fea-212c1963ed2d.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "cesar_jong-980cacd0-879c-4a9e-8770-441b303c890c.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "cesar_jong-eb68261a-5cb1-4fb0-a0dc-bbb282192d19.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "cesar_jong-f070dff5-c2df-443e-8c49-1bdfe3f22b7c.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "cesar_oud-bad934a3-afa8-4f84-b2d5-be8f93a18d04.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "charlotte-ac3d84c0-d2a3-4423-9d8c-95f98dc0f849.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "freek-170ff73e-18b1-4a69-bb77-f0310ecdaca0.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "freek-5a7889f2-fbcc-4ce4-bade-b608668401e9.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "han-21c5d160-6e28-4b10-90f3-786c42285b56.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "han-56f283df-e4ec-4daa-abaa-2f31b61f729d.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "jerry-230f6c13-2f4a-4be0-9fc3-8d4c85b628da.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "jerry-802bb18c-739c-4712-95c1-061de592958a.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "jordy-5f281c45-3245-4653-a2bf-5a08cb27b64f.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "jordy-6ef101a6-e2c8-4150-ae56-9585af384611.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lex-37857ae3-adc0-488d-8591-b8d1f136aef8.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lex-405a683f-b251-4877-b521-aaa455acd3ef.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lex-5982494e-2b20-4147-9c13-0e0cc1db3691.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lisa-43fe8e70-f268-4bb1-9ce6-086a2f3f6d20.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lisa-44e848e0-5e3b-47bb-8fc5-7a301190bd52.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lisa-8510ed27-f5ad-4c79-a554-f9cbe6598e88.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lisa-b32681ca-f014-474f-8654-7353fcccefd8.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lisa-e2d8d37f-4965-4841-8236-2c16a2b91e1d.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lorrie-12448c84-b33e-4c8b-bddc-ba0ca8238f14.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lorrie-7f92222e-2322-4621-9bb1-8ef38837241c.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lorrie-a0f7cbe1-d96c-4e30-b883-ffd3b25d4d80.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lorrie-c1b5e22b-218c-48f8-a17c-5f74a919531f.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "marc-573e01e3-1c2f-4729-a04a-2e2dc6d11a0d.webp",
-          "emojis" : ["🔥"]
-        }
+        {"image_file" : "combinatie-08714abe-a6d2-4dde-b661-14af96596fa1.webp", "emojis" : ["🔥"]},
+        {"image_file" : "combinatie-7db2d536-5ffb-49d0-b285-46fd19720965.webp", "emojis" : ["🔥"]},
+        {"image_file" : "combinatie-8fc6faf0-9acf-48ee-9114-f9e7197296c0.webp", "emojis" : ["🔥"]},
+        {"image_file" : "combinatie-ab9b16ea-11e1-4034-876d-51c293e70b2e.webp", "emojis" : ["🔥"]},
+        {"image_file" : "combinatie-c3964049-7609-443a-9d42-e3c5ed5e42a5.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Combinatie-Haftor-Maarten-6645c823-80ad-4182-bd4a-7d104bcb4671.webp", "emojis" : ["🔥"]},
+        {"image_file" : "alex-47b8099e-d728-4fd2-8db8-accdef683109.webp", "emojis" : ["🔥"]},
+        {"image_file" : "alex-933152c0-8951-465d-acf6-0646ed025570.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Alex-9e33cee8-aac1-4828-97c1-eb61cda24543.webp", "emojis" : ["🔥"]},
+        {"image_file" : "alex-b0f09072-91d2-4606-a3cd-e073d0483d0c.webp", "emojis" : ["🔥"]},
+        {"image_file" : "carlo-12edc183-14eb-4ded-9fea-212c1963ed2d.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Cesar-52be5925-bd55-4d55-89d6-e8b109be78c8.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Cesar-53acf66b-d4d7-4c49-8b10-927dd83f26bf.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Cesar-db73cad3-620b-4b3d-9557-f1e3ac6e36b7.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Cesar-e4674b89-589c-4f55-a34f-0d5811e359ee.webp", "emojis" : ["🔥"]},
+        {"image_file" : "cesar_jong-980cacd0-879c-4a9e-8770-441b303c890c.webp", "emojis" : ["🔥"]},
+        {"image_file" : "cesar_jong-eb68261a-5cb1-4fb0-a0dc-bbb282192d19.webp", "emojis" : ["🔥"]},
+        {"image_file" : "cesar_jong-f070dff5-c2df-443e-8c49-1bdfe3f22b7c.webp", "emojis" : ["🔥"]},
+        {"image_file" : "cesar_oud-bad934a3-afa8-4f84-b2d5-be8f93a18d04.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Charlotte-59f86d4d-7a9f-4565-89d2-dd4e5cccac42.webp", "emojis" : ["🔥"]},
+        {"image_file" : "charlotte-ac3d84c0-d2a3-4423-9d8c-95f98dc0f849.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Clank-dabfbbbf-e3a1-4998-9f5e-b8f1c2f8de92.webp", "emojis" : ["🔥"]},
+        {"image_file" : "freek-139927e5-4ea2-4d10-bfad-878267849644.webp", "emojis" : ["🔥"]},
+        {"image_file" : "freek-3bf61a25-7d0f-4be4-bf3b-393f3a073760.webp", "emojis" : ["🔥"]},
+        {"image_file" : "freek-9b9666b1-053e-4bc8-9ed9-303cc02aab7d.webp", "emojis" : ["🔥"]},
+        {"image_file" : "freek-frikadel-170ff73e-18b1-4a69-bb77-f0310ecdaca0.webp", "emojis" : ["🔥"]},
+        {"image_file" : "freek-frikadel-5a7889f2-fbcc-4ce4-bade-b608668401e9.webp", "emojis" : ["🔥"]}
       ]
     },
     {
-      "identifier": "2",
-      "name": "gezichten #2",
+      "identifier": "Gezichten H-J",
+      "name": "Gezichten H-J",
       "publisher": "Chaos",
       "tray_image_file": "trayicon.png",
-      "image_data_version":"2",
+      "image_data_version":"10",
       "avoid_cache":false,
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
-        {
-          "image_file" : "luuk-466fcde7-cdd0-46be-8406-830dc40a4909.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "luuk-779caa7a-9273-488b-89f7-52ff140472e6.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "luuk-d2d95b65-c022-42dd-b438-8e1d62fd7278.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "luuk-f5deaa66-da8a-4019-854a-ed7e58f04c0b.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "mees-26d6fc7e-1b16-4064-b3c2-b4f35fa42414.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "mees-34efee14-41a3-4bc8-8a81-b772de9b443f.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "mees-a70168a9-bb10-42b5-b1d4-e61011105ba1.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "mees-d3516c54-9f2a-426f-b79d-fda2baaf4a9f.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "qing-3890b642-51db-4a00-a350-f21badab4864.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "qing-471fbcc2-4aa0-4677-83ec-6c2bb14cec73.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "qing-9def863f-b1e3-49cf-9787-e37cce13d3fe.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "remco-7406d631-aa31-4339-b981-301f5a6b94d2.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "rijk-a2c22246-65a9-42ff-9ceb-c1043c47551a.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "ruben-dff70ab4-e5af-4cbb-a8d0-7f49ad785a5e.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "samuel-079f02e0-63cc-4250-9553-3e08f37b6fa4.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "samuel-69cc97ba-8b62-4f04-9feb-5ff9fe3d5198.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "sergin-0ba6609e-cea8-4d1c-9663-fe832839eb88.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "sergin-d498268c-002a-4510-8095-d98c7090abe0.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tim-ee68aa4b-40dd-4ddb-9701-c9fbaca80e8e.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tom-b0cd5a1e-cde7-4148-b866-0af476862450.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "toni-6584b142-4f78-43de-95a3-5858a9e9e6c5.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "yeti-638df8b7-00e9-49bd-8ef6-c913c1500933.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "yeti-6ec6d3de-603f-4956-9d08-ebb311c0fd11.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "yeti-70c02405-6d06-48ae-874a-0b4ee182a700.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "yeti-dcf7b240-fb29-4f40-bd80-19b33475e0e0.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "yeti-df6e5f62-112b-490a-9e4e-8081e22431eb.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "combinatie-08714abe-a6d2-4dde-b661-14af96596fa1.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "combinatie-8fc6faf0-9acf-48ee-9114-f9e7197296c0.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "combinatie-ab9b16ea-11e1-4034-876d-51c293e70b2e.webp",
-          "emojis" : ["🔥"]
-        }
+        {"image_file" : "Hafthor-f9f0b331-64aa-4f23-a0df-3a8b5b230e87.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Haftor-00943fba-02a4-43a6-b7f2-acb1ee688770.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Haftor-1c25bf33-779e-4249-bf34-0e497cd3806c.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Haftor-74c6a55c-7fe7-4ac2-811c-9697c577fc4d.webp", "emojis" : ["🔥"]},
+        {"image_file" : "han-21c5d160-6e28-4b10-90f3-786c42285b56.webp", "emojis" : ["🔥"]},
+        {"image_file" : "han-56f283df-e4ec-4daa-abaa-2f31b61f729d.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Han-d64a2f5a-d817-48f5-9f3d-0938023d4c8d.webp", "emojis" : ["🔥"]},
+        {"image_file" : "jerry-230f6c13-2f4a-4be0-9fc3-8d4c85b628da.webp", "emojis" : ["🔥"]},
+        {"image_file" : "jerry-802bb18c-739c-4712-95c1-061de592958a.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Joost-122cd2f7-4821-4706-9e0e-47f3738432e5.webp", "emojis" : ["🔥"]},
+        {"image_file" : "joost-9ea8a906-cd0b-437c-9deb-24aea15699ac.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Joost-d63b9ec8-ae49-4949-93ea-d16e941c05b4.webp", "emojis" : ["🔥"]},
+        {"image_file" : "jordy-5f281c45-3245-4653-a2bf-5a08cb27b64f.webp", "emojis" : ["🔥"]},
+        {"image_file" : "jordy-6ef101a6-e2c8-4150-ae56-9585af384611.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Jordy-723c9187-8ab7-4c1a-8f94-d9e36134790a.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Jordy-8ff32ac8-33d5-49a9-bf0d-02409ae65518.webp", "emojis" : ["🔥"]}
       ]
     },
     {
-      "identifier": "3",
-      "name": "gezichten #3",
+      "identifier": "Gezichten L",
+      "name": "Gezichten L",
       "publisher": "Chaos",
       "tray_image_file": "trayicon.png",
-      "image_data_version":"2",
+      "image_data_version":"10",
       "avoid_cache":false,
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
-        {
-          "image_file" : "alex-47b8099e-d728-4fd2-8db8-accdef683109.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "combinatie-7db2d536-5ffb-49d0-b285-46fd19720965.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "combinatie-c3964049-7609-443a-9d42-e3c5ed5e42a5.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "freek-139927e5-4ea2-4d10-bfad-878267849644.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "freek-3bf61a25-7d0f-4be4-bf3b-393f3a073760.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "freek-9b9666b1-053e-4bc8-9ed9-303cc02aab7d.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "joost-9ea8a906-cd0b-437c-9deb-24aea15699ac.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lex-f776ea4e-adab-43ed-804e-e95adab38e93.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lisa-1e92d6e0-e191-4328-a3ce-ebc4c6f2e845.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lisa-2760076c-aa2c-4494-965e-8838f3cee9f5.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lisa-46448f22-2221-4557-9dd0-ffb624d6e154.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lisa-5f3b4740-47a8-4272-8d2c-9a90287b18a7.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lisa-c7425b32-dfe5-48c3-897b-e773e1a2e43e.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lisa-cecebd51-549f-4662-b1b3-a5c047a1581c.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "lorrie-5c405875-773a-47b7-9670-f0e5afac5ab7.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "luuk-353c0c14-fb7b-41b0-a3f3-f454db9e74ce.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "luuk-587b3332-0b1b-4505-bc03-eefe5ef849b7.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "luuk-d95a9344-23b1-4406-88c2-93f3b550ae0d.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "mees-915be22b-0a9b-4fe4-8887-94eac90fdaa4.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "qing-1d43636e-9a2d-437e-9b28-ca3335d15ceb.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "qing-421a00e5-97b0-4df8-8df6-dec844625a81.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "qing-adc834e1-61ad-4f63-b937-0e5b7cf3e3cc.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "qing-f61ea740-03f7-41be-a30c-bbf82a45633f.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "remco-cc303363-5e1a-4ad4-a7b4-cd1939ff6ae6.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "samuel-0fd07076-0d13-4900-96f4-bb369122566f.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tim-1fbf4545-002a-4934-a314-6e97d935cdb8.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "yeti-02558f37-58b0-41c5-a179-b53c55bc7938.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "yeti-7d173589-a1aa-46b6-8df5-772639b3bc4c.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "yeti-9fcd3582-5c57-4d73-a3b6-5dab12cbe6f7.webp",
-          "emojis" : ["🔥"]
-        }
+        {"image_file" : "lex-37857ae3-adc0-488d-8591-b8d1f136aef8.webp", "emojis" : ["🔥"]},
+        {"image_file" : "lex-405a683f-b251-4877-b521-aaa455acd3ef.webp", "emojis" : ["🔥"]},
+        {"image_file" : "lex-5982494e-2b20-4147-9c13-0e0cc1db3691.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Lex-8d363ae4-fcf6-4257-868e-915c175bb9c8.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Lex-f5f0ba19-6099-47dc-84bd-2f1165a8be2a.webp", "emojis" : ["🔥"]},
+        {"image_file" : "lex-f776ea4e-adab-43ed-804e-e95adab38e93.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Lorenzo-12448c84-b33e-4c8b-bddc-ba0ca8238f14.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Lorenzo-1596edcd-0e5e-45d3-9189-5026ffdf1c75.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Lorenzo-7f92222e-2322-4621-9bb1-8ef38837241c.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Lorenzo-82bf63fb-d318-47e5-a1c0-7f113d9b2785.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Lorenzo-a0f7cbe1-d96c-4e30-b883-ffd3b25d4d80.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Lorenzo-c1b5e22b-218c-48f8-a17c-5f74a919531f.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Lorenzo-c420916c-b9d2-4a8d-883a-0b1486a92917.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Lorenzo-f3ecf067-768e-4705-8d4f-63036ff2b2b6.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Luuk-105b3c3a-4c0f-4e65-9942-6e0af5c2d27e.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Luuk-3183fa75-1261-4bf5-b174-8091ef26cf92.webp", "emojis" : ["🔥"]},
+        {"image_file" : "luuk-353c0c14-fb7b-41b0-a3f3-f454db9e74ce.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Luuk-3ae42746-bea8-4244-82f9-dc92bd31f7fa.webp", "emojis" : ["🔥"]},
+        {"image_file" : "luuk-466fcde7-cdd0-46be-8406-830dc40a4909.webp", "emojis" : ["🔥"]},
+        {"image_file" : "luuk-587b3332-0b1b-4505-bc03-eefe5ef849b7.webp", "emojis" : ["🔥"]},
+        {"image_file" : "luuk-779caa7a-9273-488b-89f7-52ff140472e6.webp", "emojis" : ["🔥"]},
+        {"image_file" : "luuk-d2d95b65-c022-42dd-b438-8e1d62fd7278.webp", "emojis" : ["🔥"]},
+        {"image_file" : "luuk-d95a9344-23b1-4406-88c2-93f3b550ae0d.webp", "emojis" : ["🔥"]},
+        {"image_file" : "luuk-f5deaa66-da8a-4019-854a-ed7e58f04c0b.webp", "emojis" : ["🔥"]}
       ]
     },
     {
-      "identifier": "4",
-      "name": "plaatjes en teksten",
+      "identifier": "Gezichten M-S",
+      "name": "Gezichten M-S",
       "publisher": "Chaos",
       "tray_image_file": "trayicon.png",
-      "image_data_version":"2",
+      "image_data_version":"10",
       "avoid_cache":false,
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
-        {
-          "image_file" : "chaoslogo.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "overig-05f85db4-0ab8-4718-90f3-8b59b520a48b.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "overig-144a0106-cd55-44d5-9631-149f00cdbc5e.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "overig-26b9812b-e273-490b-8903-455152b492d3.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "overig-37ab2ede-223d-47c8-af28-335a58e929f6.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "overig-523c34cb-fc37-4977-95c6-2d6f91b54275.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "overig-6cc1fd99-e1bf-42a7-9d3b-5aa3440b6c02.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "overig-9e956290-1e71-4607-b862-5b39f76a0769.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "overig-b9913f6e-b226-493d-b412-0ad290e4b825.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "overig-eacfc4b6-3791-4d3d-b4ea-746502f97c5b.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "overig_doge_bvo_tijd_0333.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "overig_doge_bvo_tijd_2003.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-02ab2683-4b74-4ff6-ac24-b27f4c566c9e.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-05887064-fce5-492f-b299-31decf38ffbf.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-067e7df6-c867-48cc-9200-acb48945985e.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-0f4963cb-e326-4516-894c-97318d7e7703.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-159f3077-a59a-42a6-8917-87b95c89d032.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-17d5614d-7bfd-43ff-9bef-4c8ccde9cbba.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-34313475-1bdf-43af-a8b0-9e5a1671c602.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-48c06a74-8c83-48cf-a8e8-370535ea4f89.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-508bfaa8-f296-4ca3-b2ba-3b57ee6efc29.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-58c3e971-1e77-46af-bb75-337e782753b3.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-62358fe0-328b-41c3-b6c6-79d59205bff8.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-83d2bc87-b794-433c-af93-553433b632de.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-abb6e8bc-3c91-4287-8e53-217d29848643.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-ae1dd084-d055-4ade-b297-282ae73d87c1.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-d5466813-30f4-44a2-bf75-471bd9378db4.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-d5fa4087-c741-460d-9948-3d3babaf2efa.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-d68e72b5-5e19-41cc-9668-8b32d78fd5a4.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "tekst-d83e17ff-dea4-40fe-9672-eb0c029ab94f.webp",
-          "emojis" : ["🔥"]
-        }
+        {"image_file" : "Madelief-9f529a9e-232c-47fd-bc86-1997e3e2fc03.webp", "emojis" : ["🔥"]},
+        {"image_file" : "marc-573e01e3-1c2f-4729-a04a-2e2dc6d11a0d.webp", "emojis" : ["🔥"]},
+        {"image_file" : "mees-26d6fc7e-1b16-4064-b3c2-b4f35fa42414.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Mees-28f0a224-885c-4cf7-99e5-eb5e95496944.webp", "emojis" : ["🔥"]},
+        {"image_file" : "mees-34efee14-41a3-4bc8-8a81-b772de9b443f-alt.webp", "emojis" : ["🔥"]},
+        {"image_file" : "mees-34efee14-41a3-4bc8-8a81-b772de9b443f.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Mees-7beef546-abca-4cb6-b835-2659640ddf03.webp", "emojis" : ["🔥"]},
+        {"image_file" : "mees-915be22b-0a9b-4fe4-8887-94eac90fdaa4.webp", "emojis" : ["🔥"]},
+        {"image_file" : "mees-a70168a9-bb10-42b5-b1d4-e61011105ba1.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Mees-be05c653-7d2a-4444-ba38-82b4f12aa260.webp", "emojis" : ["🔥"]},
+        {"image_file" : "qing-1d43636e-9a2d-437e-9b28-ca3335d15ceb.webp", "emojis" : ["🔥"]},
+        {"image_file" : "qing-3890b642-51db-4a00-a350-f21badab4864.webp", "emojis" : ["🔥"]},
+        {"image_file" : "qing-421a00e5-97b0-4df8-8df6-dec844625a81.webp", "emojis" : ["🔥"]},
+        {"image_file" : "qing-471fbcc2-4aa0-4677-83ec-6c2bb14cec73.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Qing-481fb57a-f84f-4375-b377-3bcc3f49eb8b.webp", "emojis" : ["🔥"]},
+        {"image_file" : "qing-9def863f-b1e3-49cf-9787-e37cce13d3fe.webp", "emojis" : ["🔥"]},
+        {"image_file" : "qing-adc834e1-61ad-4f63-b937-0e5b7cf3e3cc.webp", "emojis" : ["🔥"]},
+        {"image_file" : "qing-f61ea740-03f7-41be-a30c-bbf82a45633f.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Remco-4cf69283-ce00-45ce-814b-c647b4e8a908.webp", "emojis" : ["🔥"]},
+        {"image_file" : "remco-7406d631-aa31-4339-b981-301f5a6b94d2.webp", "emojis" : ["🔥"]},
+        {"image_file" : "remco-cc303363-5e1a-4ad4-a7b4-cd1939ff6ae6.webp", "emojis" : ["🔥"]},
+        {"image_file" : "rijk-a2c22246-65a9-42ff-9ceb-c1043c47551a.webp", "emojis" : ["🔥"]},
+        {"image_file" : "ruben-dff70ab4-e5af-4cbb-a8d0-7f49ad785a5e.webp", "emojis" : ["🔥"]},
+        {"image_file" : "samuel-079f02e0-63cc-4250-9553-3e08f37b6fa4.webp", "emojis" : ["🔥"]},
+        {"image_file" : "samuel-0fd07076-0d13-4900-96f4-bb369122566f.webp", "emojis" : ["🔥"]},
+        {"image_file" : "samuel-69cc97ba-8b62-4f04-9feb-5ff9fe3d5198.webp", "emojis" : ["🔥"]},
+        {"image_file" : "sergin-0ba6609e-cea8-4d1c-9663-fe832839eb88.webp", "emojis" : ["🔥"]},
+        {"image_file" : "sergin-d498268c-002a-4510-8095-d98c7090abe0.webp", "emojis" : ["🔥"]}
       ]
     },
     {
-      "identifier": "5",
-      "name": "Coole geanimeerde stickers",
+      "identifier": "Gezichten T-Y",
+      "name": "Gezichten T-Y",
       "publisher": "Chaos",
       "tray_image_file": "trayicon.png",
-      "image_data_version":"3",
+      "image_data_version":"10",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file" : "Thomas-40e1c82c-d2c2-4c21-8b7a-ddc691bc0283.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tim-ee68aa4b-40dd-4ddb-9701-c9fbaca80e8e.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Tinus-fac400f3-c41a-4a24-a0cf-30600eb0006a.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tom-b0cd5a1e-cde7-4148-b866-0af476862450.webp", "emojis" : ["🔥"]},
+        {"image_file" : "toni-6584b142-4f78-43de-95a3-5858a9e9e6c5.webp", "emojis" : ["🔥"]},
+        {"image_file" : "yeti-02558f37-58b0-41c5-a179-b53c55bc7938.webp", "emojis" : ["🔥"]},
+        {"image_file" : "yeti-638df8b7-00e9-49bd-8ef6-c913c1500933.webp", "emojis" : ["🔥"]},
+        {"image_file" : "yeti-6ec6d3de-603f-4956-9d08-ebb311c0fd11.webp", "emojis" : ["🔥"]},
+        {"image_file" : "yeti-70c02405-6d06-48ae-874a-0b4ee182a700.webp", "emojis" : ["🔥"]},
+        {"image_file" : "yeti-7d173589-a1aa-46b6-8df5-772639b3bc4c.webp", "emojis" : ["🔥"]},
+        {"image_file" : "yeti-9fcd3582-5c57-4d73-a3b6-5dab12cbe6f7.webp", "emojis" : ["🔥"]},
+        {"image_file" : "yeti-df6e5f62-112b-490a-9e4e-8081e22431eb.webp", "emojis" : ["🔥"]}
+      ]
+    },
+    {
+      "identifier": "txt_1",
+      "name": "Teksten 1",
+      "publisher": "Chaos",
+      "tray_image_file": "trayicon.png",
+      "image_data_version":"10",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file" : "Amaretto-11a07abe-145b-4fe7-878b-0e5941d26d1d.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Aparte-chat-bf5b67b9-1515-4fdb-a7d2-8b1e6f9ea23b.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Asbest-59a3efdb-9ccb-4ea7-929d-71f775001f00.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Asbest-licht-9f315558-de24-4ad7-8697-bb49345b560c.webp", "emojis" : ["🔥"]},
+        {"image_file" : "BLex-legaal-a5fe55e6-2e33-475e-bcb6-44d7aaee3dd6.webp", "emojis" : ["🔥"]},
+        {"image_file" : "bvo_3-144a0106-cd55-44d5-9631-149f00cdbc5e.webp", "emojis" : ["🔥"]},
+        {"image_file" : "bvo_tijd_doge_0333.webp", "emojis" : ["🔥"]},
+        {"image_file" : "bvo_tijd_doge_2003.webp", "emojis" : ["🔥"]},
+        {"image_file" : "bvo_tijd_te_laatoverig-b9913f6e-b226-493d-b412-0ad290e4b825.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Chaos-enemy-3239e151-3b93-4813-9dbe-9fd9e05ab5eb.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Chaos-Logo-oud-0d13d09d-a907-4f9c-b8dc-7fa8ef761cae.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Chaos-Logo-PH-3fa57c57-a83d-4d34-b534-ffbe35304b7d.webp", "emojis" : ["🔥"]},
+        {"image_file" : "chaoslogo.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Discussie-Stickers-709f2ac0-8455-42b8-a3a5-d4dd4d1dfe1a.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Do-Amaretto-1290770e-d062-468b-b24d-8eab928685ce.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Dodood-38401576-7220-48d7-a733-d3f92ba80718.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Fucking-Chaos-e96604a4-b2c3-4ec1-989d-29ea21158c4b.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Grote-Chaos-acc8d3d0-a2a0-4616-a99a-df20f4f6b7f8.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Haat-2342246f-7a7d-4fc5-9d38-06834cb29c9b.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Han-e39471b3-12f5-4cf4-9e73-82d4b73c63b3.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Horney-noises-9aeb213b-4b67-477d-a62b-f475d267c48e.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Jullie-zijn-kut-ad230eb5-9eb6-4900-9e92-373b7bbeebfd.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Laatste-maandag-a5a053b3-f26d-4fcc-a5b6-c799a9253be1.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Mark-Rutte-dfe44ffc-f83e-4901-948e-744ef8aae4ee.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Meloen-de93884a-9ecf-4966-ab47-21f6d2f66e4b.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Met-Do-eens-05538c2f-1654-4020-a611-73e8bd6a2c71.webp", "emojis" : ["🔥"]},
+        {"image_file" : "overig-05f85db4-0ab8-4718-90f3-8b59b520a48b.webp", "emojis" : ["🔥"]},
+        {"image_file" : "overig-26b9812b-e273-490b-8903-455152b492d3.webp", "emojis" : ["🔥"]},
+        {"image_file" : "overig-6cc1fd99-e1bf-42a7-9d3b-5aa3440b6c02.webp", "emojis" : ["🔥"]},
+        {"image_file" : "overig-9e956290-1e71-4607-b862-5b39f76a0769.webp", "emojis" : ["🔥"]}
+      ]
+    },
+    {
+      "identifier": "txt_2",
+      "name": "Teksten 2",
+      "publisher": "Chaos",
+      "tray_image_file": "trayicon.png",
+      "image_data_version":"10",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file" : "overig-37ab2ede-223d-47c8-af28-335a58e929f6.webp", "emojis" : ["🔥"]},
+        {"image_file" : "overig-523c34cb-fc37-4977-95c6-2d6f91b54275.webp", "emojis" : ["🔥"]},
+        {"image_file" : "overig-eacfc4b6-3791-4d3d-b4ea-746502f97c5b.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Rijksinstituut-211dce76-53ee-4e85-a27d-9599f6eebe53.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Stickers-mening-aaae663a-78fa-4e88-bc0f-ec720339cc48.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-02ab2683-4b74-4ff6-ac24-b27f4c566c9e.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-05887064-fce5-492f-b299-31decf38ffbf.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-067e7df6-c867-48cc-9200-acb48945985e.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-0f4963cb-e326-4516-894c-97318d7e7703.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-159f3077-a59a-42a6-8917-87b95c89d032.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-17d5614d-7bfd-43ff-9bef-4c8ccde9cbba.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-34313475-1bdf-43af-a8b0-9e5a1671c602.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-48c06a74-8c83-48cf-a8e8-370535ea4f89.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-508bfaa8-f296-4ca3-b2ba-3b57ee6efc29.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-58c3e971-1e77-46af-bb75-337e782753b3.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-62358fe0-328b-41c3-b6c6-79d59205bff8.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-83d2bc87-b794-433c-af93-553433b632de.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-abb6e8bc-3c91-4287-8e53-217d29848643.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-ae1dd084-d055-4ade-b297-282ae73d87c1.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-d5466813-30f4-44a2-bf75-471bd9378db4.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-d5fa4087-c741-460d-9948-3d3babaf2efa.webp", "emojis" : ["🔥"]},
+        {"image_file" : "tekst-d68e72b5-5e19-41cc-9668-8b32d78fd5a4.webp", "emojis" : ["🔥"]}
+      ]
+    },
+    {
+      "identifier": "lach emojis",
+      "name": "\uD83D\uDE02",
+      "publisher": "Chaos",
+      "tray_image_file": "trayicon.png",
+      "image_data_version":"10",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file" : "Han-554832ce-cd40-4f34-9f77-c19098b2a02a.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Jordy-db0820e1-59e9-4be6-837c-feee0421d078.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Lex-c076f44c-2049-4771-828a-79ceae18110e.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Madelief-710e062a-e5ca-4089-b315-08ee2018cfe3.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Mees-d83e17ff-dea4-40fe-9672-eb0c029ab94f.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Sergin-54c64cc5-da09-460b-9d82-92daf0270d5a.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Thomas-b6b9d73f-ca22-46aa-bff1-f4bf63188666.webp", "emojis" : ["🔥"]}
+      ]
+    },
+    {
+      "identifier": "animated",
+      "name": "Geanimeerde stickers",
+      "publisher": "Chaos",
+      "tray_image_file": "trayicon.png",
+      "image_data_version":"4",
       "avoid_cache":true,
       "publisher_email":"",
       "publisher_website": "",
@@ -539,30 +293,15 @@
       "license_agreement_website": "",
       "animated_sticker_pack" : true,
       "stickers": [
-        {
-          "image_file" : "chaos-animatie.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file" : "chaos-animatie2.webp",
-          "emojis" : ["🔥"]
-        },
-        {
-          "image_file": "doen_durven_dsb.webp",
-          "emojis": [
-            "🍺",
-            "🍻",
-            "👔"
-          ]
-        },
-        {
-          "image_file": "doen_durven_dsb2.webp",
-          "emojis": [
-            "🍺",
-            "🍻",
-            "👔"
-          ]
-        }
+        {"image_file" : "chaos-animatie.webp", "emojis" : ["🔥"]},
+        {"image_file" : "chaos-ph-intro.webp", "emojis" : ["🔥"]},
+        {"image_file" : "ketel_10.webp", "emojis" : ["🔥"]},
+        {"image_file" : "owee_2020.webp", "emojis" : ["🔥"]},
+        {"image_file" : "owee_2021doen_durven_dsb.webp", "emojis" : ["🔥"]},
+        {"image_file" : "owee_2021_doen_durven_dsb2.webp", "emojis" : ["🔥"]},
+        {"image_file" : "Tinus-disco-cc670e5d-18b2-413d-af38-43b0c1a5b3dc.webp", "emojis" : ["🔥"]},
+        {"image_file" : "z_chaoten_Cesar-hoofddansofzo.webp", "emojis" : ["🔥"]},
+        {"image_file" : "z_chaoten_Hafthor-komt-voor-een-knuffel.webp", "emojis" : ["🔥"]}
       ]
     }
   ]
